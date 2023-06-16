@@ -9,6 +9,7 @@
     "doc": "docs"
   },
   "scripts": {
+    "build": "node src/buildToc.mjs",
     "eslint": "eslint src __tests__",
     "eslint-fix": "npm run eslint -- --fix",
     "prettier": "prettier --check src",
