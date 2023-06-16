@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "name": "cells.png",
+      "relativePath": "biology/cells.png",
+      "size": 1419151,
+      "lastModified": 1686907816629.9272
+    },
+    {
+      "name": "colonies.jpg",
+      "relativePath": "biology/colonies.jpg",
+      "size": 120431,
+      "lastModified": 1686907829523.321
+    },
+    {
+      "name": "plates.jpg",
+      "relativePath": "biology/plates.jpg",
+      "size": 250417,
+      "lastModified": 1686907824408.633
+    },
+    {
+      "name": "index.json",
+      "relativePath": "index.json",
+      "size": 1153,
+      "lastModified": 1686927200449.6443
+    },
+    {
+      "name": "spheres.tif",
+      "relativePath": "particles/spheres.tif",
+      "size": 8391182,
+      "lastModified": 1686907838493.6677
+    },
+    {
+      "name": "various.png",
+      "relativePath": "shapes/various.png",
+      "size": 22975,
+      "lastModified": 1686907776511.9456
+    }
+  ]
+}
