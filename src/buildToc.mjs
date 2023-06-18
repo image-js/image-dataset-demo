@@ -1,21 +1,37 @@
-import { writeFileSync } from 'node:fs';
+import { readdirSync, writeFileSync } from 'node:fs';
 
 import { walk } from './walk.mjs';
 
-const baseDir = new URL('../docs/', import.meta.url);
+const homedir = '../docs/'
+createTocForFolder(homedir)
 
-const webSource = { entries: [] };
-
-for (const entry of walk('.', baseDir)) {
-  if (entry.name === 'index.json') continue;
-  webSource.entries.push({
-    name: entry.name,
-    relativePath: entry.relativePath,
-    size: entry.size,
-    lastModified: entry.lastModified,
-  });
+for (const entry of readdirSync(new URL(homedir, import.meta.url), { withFileTypes: true })) {
+  if (entry.isDirectory()) {
+    createTocForFolder(`${homedir}${entry.name}/`);
+  }
 }
 
-const targetFile = new URL('../docs/index.json', import.meta.url);
 
-writeFileSync(targetFile, JSON.stringify(webSource, null, 2));
+
+
+async function createTocForFolder(folder) {
+  const baseDir = new URL(folder, import.meta.url);
+  const webSource = { entries: [] };
+
+  for (const entry of walk('.', baseDir)) {
+    if (entry.name === 'index.json') continue;
+    webSource.entries.push({
+      name: entry.name,
+      relativePath: entry.relativePath,
+      size: entry.size,
+      lastModified: entry.lastModified,
+    });
+  }
+
+  const targetFile = new URL(`${folder}index.json`, import.meta.url);
+
+  writeFileSync(targetFile, JSON.stringify(webSource, null, 2));
+
+
+}
+
