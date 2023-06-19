@@ -1,0 +1,179 @@
+{
+  "title": "Demo images",
+  "sections": [
+    {
+      "title": "biology",
+      "sources": [
+        {
+          "name": "cells.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "biology/cells.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "colonies.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "biology/colonies.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "biology/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "plates.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "biology/plates.jpg"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "cats",
+      "sources": [
+        {
+          "name": "cat-1045782_1280.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "cats/cat-1045782_1280.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "cat-551554_1280.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "cats/cat-551554_1280.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "cats-eyes-2944820_1280.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "cats/cats-eyes-2944820_1280.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "cats/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "kittens-3535404_1280.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "cats/kittens-3535404_1280.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "maine-coon-694730_1280.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "cats/maine-coon-694730_1280.jpg"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "particles",
+      "sources": [
+        {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "particles/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "spheres.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "particles/spheres.tif"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "shapes",
+      "sources": [
+        {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "shapes/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "various.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "shapes/various.png"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

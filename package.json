@@ -19,8 +19,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.3.1",
     "eslint": "^8.42.0",
     "eslint-config-cheminfo": "^8.3.1",
     "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "file-collection": "^0.1.0"
   }
 }
