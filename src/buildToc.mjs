@@ -31,6 +31,7 @@ function getSectionForFolder(folder) {
   const baseDir = new URL(folder, import.meta.url);
 
   for (const entry of readdirSync(baseDir, { withFileTypes: true })) {
+    if (entry.name.startsWith('.')) continue;
     if (entry.isDirectory()) continue;
     const relativePath = new URL(entry.name, baseDir).pathname.replace(/^.*\/docs\//, '');
     section.sources.push({

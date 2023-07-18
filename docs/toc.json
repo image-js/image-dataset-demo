@@ -125,17 +125,6 @@
       "title": "particles",
       "sources": [
         {
-          "name": ".DS_Store",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "particles/.DS_Store"
-              }
-            ]
-          }
-        },
-        {
           "name": "index.json",
           "source": {
             "baseURL": "https://image-js.github.io/image-dataset-demo/",
