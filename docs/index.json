@@ -1,6 +1,12 @@
 {
   "entries": [
     {
+      "name": ".DS_Store",
+      "relativePath": ".DS_Store",
+      "size": 6148,
+      "lastModified": 1689352680419.6028
+    },
+    {
       "name": "cells.png",
       "relativePath": "cells.png",
       "size": 1419151,
@@ -49,10 +55,22 @@
       "lastModified": 1687082982381.9695
     },
     {
+      "name": ".DS_Store",
+      "relativePath": ".DS_Store",
+      "size": 6148,
+      "lastModified": 1689176405600.126
+    },
+    {
+      "name": "spheres.png",
+      "relativePath": "spheres.png",
+      "size": 2824671,
+      "lastModified": 1689257080865.773
+    },
+    {
       "name": "spheres.tif",
       "relativePath": "spheres.tif",
       "size": 8391182,
-      "lastModified": 1686950773344.5347
+      "lastModified": 1689257055987.8994
     },
     {
       "name": "various.png",
@@ -63,8 +81,8 @@
     {
       "name": "toc.json",
       "relativePath": "toc.json",
-      "size": 3380,
-      "lastModified": 1687156645215.2434
+      "size": 4402,
+      "lastModified": 1687156952005.9202
     }
   ]
 }
