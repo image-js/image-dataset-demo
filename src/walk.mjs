@@ -1,4 +1,4 @@
-import { readdir, readdirSync, statSync } from 'node:fs';
+import { readdirSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 export function* walk(currentDir, baseDir) {

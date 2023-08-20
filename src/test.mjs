@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import { FileCollection } from 'file-collection';
 
 const source = {
@@ -14,5 +15,5 @@ const files = [...fileCollection];
 
 const arrayBuffer = await files[0].arrayBuffer();
 
-console.log(files)
-console.log(arrayBuffer.byteLength)
+console.log(files);
+console.log(arrayBuffer.byteLength);
