@@ -1,88 +1,76 @@
 {
   "entries": [
     {
-      "name": ".DS_Store",
-      "relativePath": ".DS_Store",
-      "size": 6148,
-      "lastModified": 1689352680419.6028
-    },
-    {
       "name": "cells.png",
       "relativePath": "cells.png",
       "size": 1419151,
-      "lastModified": 1686950773296.7512
+      "lastModified": 1692194458114.0398
     },
     {
       "name": "colonies.jpg",
       "relativePath": "colonies.jpg",
       "size": 120431,
-      "lastModified": 1686950773297.3655
+      "lastModified": 1692194458115.583
     },
     {
       "name": "plates.jpg",
       "relativePath": "plates.jpg",
       "size": 250417,
-      "lastModified": 1686950773298.697
+      "lastModified": 1692194458117.6733
     },
     {
       "name": "cat-1045782_1280.jpg",
       "relativePath": "cat-1045782_1280.jpg",
       "size": 476396,
-      "lastModified": 1687082982389.0308
+      "lastModified": 1692194458118.8809
     },
     {
       "name": "cat-551554_1280.jpg",
       "relativePath": "cat-551554_1280.jpg",
       "size": 320729,
-      "lastModified": 1687082982370.0283
+      "lastModified": 1692194458119.4187
     },
     {
       "name": "cats-eyes-2944820_1280.jpg",
       "relativePath": "cats-eyes-2944820_1280.jpg",
       "size": 53589,
-      "lastModified": 1687082982364.2075
+      "lastModified": 1692194458119.8599
     },
     {
       "name": "kittens-3535404_1280.jpg",
       "relativePath": "kittens-3535404_1280.jpg",
       "size": 267176,
-      "lastModified": 1687082982354.7874
+      "lastModified": 1692194458120.5334
     },
     {
       "name": "maine-coon-694730_1280.jpg",
       "relativePath": "maine-coon-694730_1280.jpg",
       "size": 88266,
-      "lastModified": 1687082982381.9695
-    },
-    {
-      "name": ".DS_Store",
-      "relativePath": ".DS_Store",
-      "size": 6148,
-      "lastModified": 1689176405600.126
+      "lastModified": 1692194458121.021
     },
     {
       "name": "spheres.png",
       "relativePath": "spheres.png",
       "size": 2824671,
-      "lastModified": 1689257080865.773
+      "lastModified": 1692194458125.736
     },
     {
       "name": "spheres.tif",
       "relativePath": "spheres.tif",
       "size": 8391182,
-      "lastModified": 1689257055987.8994
+      "lastModified": 1692194458175.3545
     },
     {
       "name": "various.png",
       "relativePath": "various.png",
       "size": 22975,
-      "lastModified": 1686950773344.8267
+      "lastModified": 1692194458175.827
     },
     {
       "name": "toc.json",
       "relativePath": "toc.json",
-      "size": 4974,
-      "lastModified": 1689675308679.7114
+      "size": 4690,
+      "lastModified": 1692253708817.7922
     }
   ]
 }

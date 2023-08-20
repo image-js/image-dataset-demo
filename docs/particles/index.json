@@ -1,22 +1,16 @@
 {
   "entries": [
     {
-      "name": ".DS_Store",
-      "relativePath": "particles/.DS_Store",
-      "size": 6148,
-      "lastModified": 1689176405600.126
-    },
-    {
       "name": "spheres.png",
       "relativePath": "particles/spheres.png",
       "size": 2824671,
-      "lastModified": 1689257080865.773
+      "lastModified": 1692194458125.736
     },
     {
       "name": "spheres.tif",
       "relativePath": "particles/spheres.tif",
       "size": 8391182,
-      "lastModified": 1689257055987.8994
+      "lastModified": 1692194458175.3545
     }
   ]
 }
