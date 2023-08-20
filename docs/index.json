@@ -67,10 +67,46 @@
       "lastModified": 1692194458175.827
     },
     {
+      "name": "barbara.jpg",
+      "relativePath": "barbara.jpg",
+      "size": 102245,
+      "lastModified": 1692545896380.8274
+    },
+    {
+      "name": "boat.png",
+      "relativePath": "boat.png",
+      "size": 233652,
+      "lastModified": 1692545896385.834
+    },
+    {
+      "name": "house.png",
+      "relativePath": "house.png",
+      "size": 126900,
+      "lastModified": 1692545896400.5122
+    },
+    {
+      "name": "lenna.png",
+      "relativePath": "lenna.png",
+      "size": 473831,
+      "lastModified": 1692545896407.8706
+    },
+    {
+      "name": "mandrill.png",
+      "relativePath": "mandrill.png",
+      "size": 47046,
+      "lastModified": 1692545896414.254
+    },
+    {
+      "name": "peppers.png",
+      "relativePath": "peppers.png",
+      "size": 37548,
+      "lastModified": 1692545896417.398
+    },
+    {
       "name": "toc.json",
       "relativePath": "toc.json",
-      "size": 4690,
-      "lastModified": 1692253708817.7922
+      "size": 6751,
+      "lastModified": 1692545928767.346
     }
   ]
 }

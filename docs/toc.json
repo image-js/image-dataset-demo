@@ -185,6 +185,88 @@
           }
         }
       ]
+    },
+    {
+      "title": "standard",
+      "sources": [
+        {
+          "name": "barbara.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard/barbara.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "boat.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard/boat.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "house.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard/house.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "lenna.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard/lenna.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "mandrill.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard/mandrill.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "peppers.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard/peppers.png"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
