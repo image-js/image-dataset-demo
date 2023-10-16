@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "name": "barbara.png",
+      "relativePath": "standard_mask/barbara.png",
+      "size": 38880,
+      "lastModified": 1697451524428.0742
+    },
+    {
+      "name": "boat.png",
+      "relativePath": "standard_mask/boat.png",
+      "size": 25091,
+      "lastModified": 1697451524424.3035
+    },
+    {
+      "name": "house.png",
+      "relativePath": "standard_mask/house.png",
+      "size": 13800,
+      "lastModified": 1697451524409.7285
+    },
+    {
+      "name": "lena.png",
+      "relativePath": "standard_mask/lena.png",
+      "size": 29989,
+      "lastModified": 1697451524431.522
+    },
+    {
+      "name": "mandrill.png",
+      "relativePath": "standard_mask/mandrill.png",
+      "size": 16714,
+      "lastModified": 1697451524418.505
+    },
+    {
+      "name": "peppers.png",
+      "relativePath": "standard_mask/peppers.png",
+      "size": 8621,
+      "lastModified": 1697451524415.15
+    }
+  ]
+}

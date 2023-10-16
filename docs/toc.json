@@ -267,6 +267,77 @@
           }
         }
       ]
+    },
+    {
+      "title": "standard_mask",
+      "sources": [
+        {
+          "name": "barbara.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/barbara.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "boat.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/boat.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "house.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/house.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "lena.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/lena.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "mandrill.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/mandrill.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "peppers.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/peppers.png"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

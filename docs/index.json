@@ -4,109 +4,145 @@
       "name": "cells.png",
       "relativePath": "cells.png",
       "size": 1419151,
-      "lastModified": 1692194458114.0398
+      "lastModified": 1697451483191.3892
     },
     {
       "name": "colonies.jpg",
       "relativePath": "colonies.jpg",
       "size": 120431,
-      "lastModified": 1692194458115.583
+      "lastModified": 1697451483192.3064
     },
     {
       "name": "plates.jpg",
       "relativePath": "plates.jpg",
       "size": 250417,
-      "lastModified": 1692194458117.6733
+      "lastModified": 1697451483194.2153
     },
     {
       "name": "cat-1045782_1280.jpg",
       "relativePath": "cat-1045782_1280.jpg",
       "size": 476396,
-      "lastModified": 1692194458118.8809
+      "lastModified": 1697451483195.2449
     },
     {
       "name": "cat-551554_1280.jpg",
       "relativePath": "cat-551554_1280.jpg",
       "size": 320729,
-      "lastModified": 1692194458119.4187
+      "lastModified": 1697451483195.6843
     },
     {
       "name": "cats-eyes-2944820_1280.jpg",
       "relativePath": "cats-eyes-2944820_1280.jpg",
       "size": 53589,
-      "lastModified": 1692194458119.8599
+      "lastModified": 1697451483196.0757
     },
     {
       "name": "kittens-3535404_1280.jpg",
       "relativePath": "kittens-3535404_1280.jpg",
       "size": 267176,
-      "lastModified": 1692194458120.5334
+      "lastModified": 1697451483196.604
     },
     {
       "name": "maine-coon-694730_1280.jpg",
       "relativePath": "maine-coon-694730_1280.jpg",
       "size": 88266,
-      "lastModified": 1692194458121.021
+      "lastModified": 1697451483197.039
     },
     {
       "name": "spheres.png",
       "relativePath": "spheres.png",
       "size": 2824671,
-      "lastModified": 1692194458125.736
+      "lastModified": 1697451483199.8628
     },
     {
       "name": "spheres.tif",
       "relativePath": "spheres.tif",
       "size": 8391182,
-      "lastModified": 1692194458175.3545
+      "lastModified": 1697451483244.5215
     },
     {
       "name": "various.png",
       "relativePath": "various.png",
       "size": 22975,
-      "lastModified": 1692194458175.827
+      "lastModified": 1697451483244.9104
     },
     {
       "name": "barbara.jpg",
       "relativePath": "barbara.jpg",
       "size": 102245,
-      "lastModified": 1692545896380.8274
+      "lastModified": 1697451483245.145
     },
     {
       "name": "boat.png",
       "relativePath": "boat.png",
       "size": 233652,
-      "lastModified": 1692545896385.834
+      "lastModified": 1697451483246.232
     },
     {
       "name": "house.png",
       "relativePath": "house.png",
       "size": 126900,
-      "lastModified": 1692545896400.5122
+      "lastModified": 1697451483246.8293
     },
     {
       "name": "lenna.png",
       "relativePath": "lenna.png",
       "size": 473831,
-      "lastModified": 1692545896407.8706
+      "lastModified": 1697451483247.3323
     },
     {
       "name": "mandrill.png",
       "relativePath": "mandrill.png",
       "size": 47046,
-      "lastModified": 1692545896414.254
+      "lastModified": 1697451483247.4868
     },
     {
       "name": "peppers.png",
       "relativePath": "peppers.png",
       "size": 37548,
-      "lastModified": 1692545896417.398
+      "lastModified": 1697451483247.6494
+    },
+    {
+      "name": "barbara.png",
+      "relativePath": "barbara.png",
+      "size": 38880,
+      "lastModified": 1697451524428.0742
+    },
+    {
+      "name": "boat.png",
+      "relativePath": "boat.png",
+      "size": 25091,
+      "lastModified": 1697451524424.3035
+    },
+    {
+      "name": "house.png",
+      "relativePath": "house.png",
+      "size": 13800,
+      "lastModified": 1697451524409.7285
+    },
+    {
+      "name": "lena.png",
+      "relativePath": "lena.png",
+      "size": 29989,
+      "lastModified": 1697451524431.522
+    },
+    {
+      "name": "mandrill.png",
+      "relativePath": "mandrill.png",
+      "size": 16714,
+      "lastModified": 1697451524418.505
+    },
+    {
+      "name": "peppers.png",
+      "relativePath": "peppers.png",
+      "size": 8621,
+      "lastModified": 1697451524415.15
     },
     {
       "name": "toc.json",
       "relativePath": "toc.json",
       "size": 6751,
-      "lastModified": 1692545928767.346
+      "lastModified": 1697451483247.7217
     }
   ]
 }
