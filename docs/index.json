@@ -121,8 +121,8 @@
       "lastModified": 1697451524409.7285
     },
     {
-      "name": "lena.png",
-      "relativePath": "lena.png",
+      "name": "lenna.png",
+      "relativePath": "lenna.png",
       "size": 29989,
       "lastModified": 1697451524431.522
     },
@@ -141,8 +141,8 @@
     {
       "name": "toc.json",
       "relativePath": "toc.json",
-      "size": 6751,
-      "lastModified": 1697451483247.7217
+      "size": 8560,
+      "lastModified": 1697455503570.2432
     }
   ]
 }

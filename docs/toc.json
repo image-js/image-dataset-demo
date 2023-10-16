@@ -305,12 +305,23 @@
           }
         },
         {
-          "name": "lena.png",
+          "name": "index.json",
           "source": {
             "baseURL": "https://image-js.github.io/image-dataset-demo/",
             "entries": [
               {
-                "relativePath": "standard_mask/lena.png"
+                "relativePath": "standard_mask/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "lenna.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/lenna.png"
               }
             ]
           }
