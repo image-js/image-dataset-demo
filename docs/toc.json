@@ -122,6 +122,44 @@
       ]
     },
     {
+      "title": "morphology_mask",
+      "sources": [
+        {
+          "name": "circles.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "morphology_mask/circles.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "shapes.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "morphology_mask/shapes.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "star.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "morphology_mask/star.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
       "title": "particles",
       "sources": [
         {
