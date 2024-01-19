@@ -1,3 +1,9 @@
+## Adding more images
+
+Add the images in a folder in docs
+
+Create the toc file using: `node src/buildToc.mjs`
+
 ## Demo files
 
 Files are available at the following URL https://image-js.github.io/image-dataset-demo/
