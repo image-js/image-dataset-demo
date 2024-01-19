@@ -1,166 +1,190 @@
 {
   "entries": [
     {
+      "name": ".DS_Store",
+      "relativePath": ".DS_Store",
+      "size": 6148,
+      "lastModified": 1689352680419.6028
+    },
+    {
       "name": "cells.png",
       "relativePath": "cells.png",
       "size": 1419151,
-      "lastModified": 1699026847982.3562
+      "lastModified": 1686950773296.7512
     },
     {
       "name": "colonies.jpg",
       "relativePath": "colonies.jpg",
       "size": 120431,
-      "lastModified": 1699026847983.4932
+      "lastModified": 1686950773297.3655
     },
     {
       "name": "plates.jpg",
       "relativePath": "plates.jpg",
       "size": 250417,
-      "lastModified": 1699026847986.126
+      "lastModified": 1686950773298.697
     },
     {
       "name": "cat-1045782_1280.jpg",
       "relativePath": "cat-1045782_1280.jpg",
       "size": 476396,
-      "lastModified": 1699026847987.7607
+      "lastModified": 1687082982389.0308
     },
     {
       "name": "cat-551554_1280.jpg",
       "relativePath": "cat-551554_1280.jpg",
       "size": 320729,
-      "lastModified": 1699026847988.3823
+      "lastModified": 1687082982370.0283
     },
     {
       "name": "cats-eyes-2944820_1280.jpg",
       "relativePath": "cats-eyes-2944820_1280.jpg",
       "size": 53589,
-      "lastModified": 1699026847988.9746
+      "lastModified": 1687082982364.2075
     },
     {
       "name": "kittens-3535404_1280.jpg",
       "relativePath": "kittens-3535404_1280.jpg",
       "size": 267176,
-      "lastModified": 1699026847989.7664
+      "lastModified": 1687082982354.7874
     },
     {
       "name": "maine-coon-694730_1280.jpg",
       "relativePath": "maine-coon-694730_1280.jpg",
       "size": 88266,
-      "lastModified": 1699026847990.4243
+      "lastModified": 1687082982381.9695
     },
     {
       "name": "circles.png",
       "relativePath": "circles.png",
       "size": 29439,
-      "lastModified": 1699027081834.3892
+      "lastModified": 1705648171565.4949
     },
     {
       "name": "shapes.png",
       "relativePath": "shapes.png",
       "size": 36526,
-      "lastModified": 1699027084767.744
+      "lastModified": 1705648171565.8955
     },
     {
       "name": "star.png",
       "relativePath": "star.png",
       "size": 32103,
-      "lastModified": 1699027087042.5679
+      "lastModified": 1705648171566.1514
+    },
+    {
+      "name": ".DS_Store",
+      "relativePath": ".DS_Store",
+      "size": 6148,
+      "lastModified": 1689176405600.126
+    },
+    {
+      "name": "carbon-tubes1.tif",
+      "relativePath": "carbon-tubes1.tif",
+      "size": 4194510,
+      "lastModified": 1705648254972.7346
+    },
+    {
+      "name": "carbon-tubes2.tif",
+      "relativePath": "carbon-tubes2.tif",
+      "size": 4194510,
+      "lastModified": 1705648254983.9487
     },
     {
       "name": "spheres.png",
       "relativePath": "spheres.png",
       "size": 2824671,
-      "lastModified": 1699026847994.977
+      "lastModified": 1689257080865.773
     },
     {
       "name": "spheres.tif",
       "relativePath": "spheres.tif",
       "size": 8391182,
-      "lastModified": 1699026848064.7888
+      "lastModified": 1689257055987.8994
     },
     {
       "name": "various.png",
       "relativePath": "various.png",
       "size": 22975,
-      "lastModified": 1699026848065.6145
+      "lastModified": 1686950773344.8267
     },
     {
       "name": "barbara.jpg",
       "relativePath": "barbara.jpg",
       "size": 102245,
-      "lastModified": 1699026848067.2087
+      "lastModified": 1705648171569.06
     },
     {
       "name": "boat.png",
       "relativePath": "boat.png",
       "size": 233652,
-      "lastModified": 1699026848068.6748
+      "lastModified": 1705648171570.846
     },
     {
       "name": "house.png",
       "relativePath": "house.png",
       "size": 126900,
-      "lastModified": 1699026848069.3381
+      "lastModified": 1705648171571.6377
     },
     {
       "name": "lenna.png",
       "relativePath": "lenna.png",
       "size": 473831,
-      "lastModified": 1699026848069.895
+      "lastModified": 1705648171572.8662
     },
     {
       "name": "mandrill.png",
       "relativePath": "mandrill.png",
       "size": 47046,
-      "lastModified": 1699026848070.0776
+      "lastModified": 1705648171573.639
     },
     {
       "name": "peppers.png",
       "relativePath": "peppers.png",
       "size": 37548,
-      "lastModified": 1699026848070.232
+      "lastModified": 1705648171574.3916
     },
     {
       "name": "barbara.png",
       "relativePath": "barbara.png",
       "size": 38880,
-      "lastModified": 1699026848070.5173
+      "lastModified": 1705648171575.1025
     },
     {
       "name": "boat.png",
       "relativePath": "boat.png",
       "size": 25091,
-      "lastModified": 1699026848070.7124
+      "lastModified": 1705648171575.7273
     },
     {
       "name": "house.png",
       "relativePath": "house.png",
       "size": 13800,
-      "lastModified": 1699026848070.845
+      "lastModified": 1705648171576.1052
     },
     {
       "name": "lenna.png",
       "relativePath": "lenna.png",
       "size": 29989,
-      "lastModified": 1699026848071.117
+      "lastModified": 1705648171576.7737
     },
     {
       "name": "mandrill.png",
       "relativePath": "mandrill.png",
       "size": 16714,
-      "lastModified": 1699026848071.2607
+      "lastModified": 1705648171577.1006
     },
     {
       "name": "peppers.png",
       "relativePath": "peppers.png",
       "size": 8621,
-      "lastModified": 1699026848071.327
+      "lastModified": 1705648171577.4224
     },
     {
       "name": "toc.json",
       "relativePath": "toc.json",
-      "size": 8852,
-      "lastModified": 1699026848071.399
+      "size": 9799,
+      "lastModified": 1705648171577.6392
     }
   ]
 }

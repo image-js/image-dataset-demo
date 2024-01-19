@@ -136,6 +136,17 @@
           }
         },
         {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "morphology_mask/index.json"
+              }
+            ]
+          }
+        },
+        {
           "name": "shapes.png",
           "source": {
             "baseURL": "https://image-js.github.io/image-dataset-demo/",
@@ -160,15 +171,37 @@
       ]
     },
     {
-      "title": "particles",
+      "title": "sem_tem",
       "sources": [
+        {
+          "name": "carbon-tubes1.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "sem_tem/carbon-tubes1.tif"
+              }
+            ]
+          }
+        },
+        {
+          "name": "carbon-tubes2.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "sem_tem/carbon-tubes2.tif"
+              }
+            ]
+          }
+        },
         {
           "name": "index.json",
           "source": {
             "baseURL": "https://image-js.github.io/image-dataset-demo/",
             "entries": [
               {
-                "relativePath": "particles/index.json"
+                "relativePath": "sem_tem/index.json"
               }
             ]
           }
@@ -179,7 +212,7 @@
             "baseURL": "https://image-js.github.io/image-dataset-demo/",
             "entries": [
               {
-                "relativePath": "particles/spheres.png"
+                "relativePath": "sem_tem/spheres.png"
               }
             ]
           }
@@ -190,7 +223,7 @@
             "baseURL": "https://image-js.github.io/image-dataset-demo/",
             "entries": [
               {
-                "relativePath": "particles/spheres.tif"
+                "relativePath": "sem_tem/spheres.tif"
               }
             ]
           }
