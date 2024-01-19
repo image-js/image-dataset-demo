@@ -4,19 +4,19 @@
       "name": "circles.png",
       "relativePath": "morphology_mask/circles.png",
       "size": 29439,
-      "lastModified": 1705648171565.4949
+      "lastModified": 1705686074900.0342
     },
     {
       "name": "shapes.png",
       "relativePath": "morphology_mask/shapes.png",
       "size": 36526,
-      "lastModified": 1705648171565.8955
+      "lastModified": 1705686074900.0342
     },
     {
       "name": "star.png",
       "relativePath": "morphology_mask/star.png",
       "size": 32103,
-      "lastModified": 1705648171566.1514
+      "lastModified": 1705686074900.0342
     }
   ]
 }

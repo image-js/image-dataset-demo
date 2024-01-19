@@ -1,0 +1,124 @@
+{
+  "entries": [
+    {
+      "name": "bare-catalyst1.jpg",
+      "relativePath": "UCL/bare-catalyst1.jpg",
+      "size": 26473,
+      "lastModified": 1705687488000
+    },
+    {
+      "name": "bare-catalyst2.png",
+      "relativePath": "UCL/bare-catalyst2.png",
+      "size": 40407,
+      "lastModified": 1705687492000
+    },
+    {
+      "name": "bimetallic-catalyst-pd-bic.jpg",
+      "relativePath": "UCL/bimetallic-catalyst-pd-bic.jpg",
+      "size": 102063,
+      "lastModified": 1705687430000
+    },
+    {
+      "name": "catalyst-pdbn1.jpg",
+      "relativePath": "UCL/catalyst-pdbn1.jpg",
+      "size": 34756,
+      "lastModified": 1705687461000
+    },
+    {
+      "name": "catalyst-pdbn2.jpg",
+      "relativePath": "UCL/catalyst-pdbn2.jpg",
+      "size": 42145,
+      "lastModified": 1705687470000
+    },
+    {
+      "name": "catalyst-pdbn3.png",
+      "relativePath": "UCL/catalyst-pdbn3.png",
+      "size": 134335,
+      "lastModified": 1705687476000
+    },
+    {
+      "name": "catalyst-pdbn4.emf",
+      "relativePath": "UCL/catalyst-pdbn4.emf",
+      "size": 671624,
+      "lastModified": 1705687465000
+    },
+    {
+      "name": "catalyst-pdbn5.emf",
+      "relativePath": "UCL/catalyst-pdbn5.emf",
+      "size": 8862336,
+      "lastModified": 1705687481000
+    },
+    {
+      "name": "catalyst-pdc.jpg",
+      "relativePath": "UCL/catalyst-pdc.jpg",
+      "size": 70962,
+      "lastModified": 1705687423000
+    },
+    {
+      "name": "catalyst-pdcb-silica1.jpg",
+      "relativePath": "UCL/catalyst-pdcb-silica1.jpg",
+      "size": 63205,
+      "lastModified": 1705687497000
+    },
+    {
+      "name": "catalyst-pdcb-silica2.jpg",
+      "relativePath": "UCL/catalyst-pdcb-silica2.jpg",
+      "size": 46637,
+      "lastModified": 1705687501000
+    },
+    {
+      "name": "ligand-MWCNT.png",
+      "relativePath": "UCL/ligand-MWCNT.png",
+      "size": 81281,
+      "lastModified": 1705687560000
+    },
+    {
+      "name": "ligand-RGO.png",
+      "relativePath": "UCL/ligand-RGO.png",
+      "size": 41826,
+      "lastModified": 1705687564000
+    },
+    {
+      "name": "MWCNTs1.jpg",
+      "relativePath": "UCL/MWCNTs1.jpg",
+      "size": 49474,
+      "lastModified": 1705687530000
+    },
+    {
+      "name": "MWCNTs2.jpg",
+      "relativePath": "UCL/MWCNTs2.jpg",
+      "size": 44574,
+      "lastModified": 1705687534000
+    },
+    {
+      "name": "nanocapsules.png",
+      "relativePath": "UCL/nanocapsules.png",
+      "size": 390701,
+      "lastModified": 1705687506000
+    },
+    {
+      "name": "SEM-CNFs.png",
+      "relativePath": "UCL/SEM-CNFs.png",
+      "size": 167622,
+      "lastModified": 1705687510000
+    },
+    {
+      "name": "SEM-MWCNTs.png",
+      "relativePath": "UCL/SEM-MWCNTs.png",
+      "size": 207806,
+      "lastModified": 1705687515000
+    },
+    {
+      "name": "TEM-CNFs.jpg",
+      "relativePath": "UCL/TEM-CNFs.jpg",
+      "size": 64243,
+      "lastModified": 1705687521000
+    },
+    {
+      "name": "TEM-MWCNTs.jpg",
+      "relativePath": "UCL/TEM-MWCNTs.jpg",
+      "size": 88742,
+      "lastModified": 1705687526000
+    }
+  ]
+}
