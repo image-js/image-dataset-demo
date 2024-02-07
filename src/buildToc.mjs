@@ -55,8 +55,9 @@ async function createIndexForFolder(folder) {
   const baseDir = new URL(folder, import.meta.url);
   const webSource = { entries: [] };
   for (const entry of walk('.', baseDir)) {
-    if (entry.name === 'index.json') continue;
-    const relativePath = new URL(entry.name, baseDir).pathname.replace(
+    if (entry.name.endsWith('.json')) continue;
+    if (entry.name.startsWith('.')) continue;
+    const relativePath = new URL(entry.relativePath, baseDir).pathname.replace(
       /^.*\/docs\//,
       '',
     );
@@ -67,6 +68,7 @@ async function createIndexForFolder(folder) {
       lastModified: entry.lastModified,
     });
   }
+
   const targetFile = new URL(`${folder}index.json`, import.meta.url);
   writeFileSync(targetFile, JSON.stringify(webSource, null, 2));
 }
