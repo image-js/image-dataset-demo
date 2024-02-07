@@ -2,19 +2,19 @@
   "entries": [
     {
       "name": "circles.png",
-      "relativePath": "morphology_mask/circles.png",
+      "relativePath": "circles.png",
       "size": 29439,
       "lastModified": 1705648171565.4949
     },
     {
       "name": "shapes.png",
-      "relativePath": "morphology_mask/shapes.png",
+      "relativePath": "shapes.png",
       "size": 36526,
       "lastModified": 1705648171565.8955
     },
     {
       "name": "star.png",
-      "relativePath": "morphology_mask/star.png",
+      "relativePath": "star.png",
       "size": 32103,
       "lastModified": 1705648171566.1514
     }

@@ -2,37 +2,37 @@
   "entries": [
     {
       "name": "barbara.jpg",
-      "relativePath": "standard/barbara.jpg",
+      "relativePath": "barbara.jpg",
       "size": 102245,
       "lastModified": 1705648171569.06
     },
     {
       "name": "boat.png",
-      "relativePath": "standard/boat.png",
+      "relativePath": "boat.png",
       "size": 233652,
       "lastModified": 1705648171570.846
     },
     {
       "name": "house.png",
-      "relativePath": "standard/house.png",
+      "relativePath": "house.png",
       "size": 126900,
       "lastModified": 1705648171571.6377
     },
     {
       "name": "lenna.png",
-      "relativePath": "standard/lenna.png",
+      "relativePath": "lenna.png",
       "size": 473831,
       "lastModified": 1705648171572.8662
     },
     {
       "name": "mandrill.png",
-      "relativePath": "standard/mandrill.png",
+      "relativePath": "mandrill.png",
       "size": 47046,
       "lastModified": 1705648171573.639
     },
     {
       "name": "peppers.png",
-      "relativePath": "standard/peppers.png",
+      "relativePath": "peppers.png",
       "size": 37548,
       "lastModified": 1705648171574.3916
     }

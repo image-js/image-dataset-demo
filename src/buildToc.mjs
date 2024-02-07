@@ -60,7 +60,7 @@ async function createIndexForFolder(folder) {
     const relativePath = new URL(entry.relativePath, baseDir).pathname.replace(
       /^.*\/docs\//,
       '',
-    );
+    ).replace(folder.replace('../docs/', ''), '');
     webSource.entries.push({
       name: entry.name,
       relativePath,
