@@ -57,10 +57,9 @@ async function createIndexForFolder(folder) {
   for (const entry of walk('.', baseDir)) {
     if (entry.name.endsWith('.json')) continue;
     if (entry.name.startsWith('.')) continue;
-    const relativePath = new URL(entry.relativePath, baseDir).pathname.replace(
-      /^.*\/docs\//,
-      '',
-    ).replace(folder.replace('../docs/', ''), '');
+    const relativePath = new URL(entry.relativePath, baseDir).pathname
+      .replace(/^.*\/docs\//, '')
+      .replace(folder.replace('../docs/', ''), '');
     webSource.entries.push({
       name: entry.name,
       relativePath,

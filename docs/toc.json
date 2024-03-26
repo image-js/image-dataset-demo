@@ -2,302 +2,6 @@
   "title": "Demo images",
   "sections": [
     {
-      "title": "Fribourg",
-      "sources": [
-        {
-          "name": "Commercial-SPIONss.tif",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "Fribourg/Commercial-SPIONss.tif"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Cu_BSA_6.tif",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "Fribourg/Cu_BSA_6.tif"
-              }
-            ]
-          }
-        },
-        {
-          "name": "Silica_small.tif",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "Fribourg/Silica_small.tif"
-              }
-            ]
-          }
-        },
-        {
-          "name": "ZnO_BSA_7.tif",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "Fribourg/ZnO_BSA_7.tif"
-              }
-            ]
-          }
-        },
-        {
-          "name": "index.json",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "Fribourg/index.json"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "title": "UCL",
-      "sources": [
-        {
-          "name": "MWCNTs1.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/MWCNTs1.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "MWCNTs2.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/MWCNTs2.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "SEM-CNFs.png",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/SEM-CNFs.png"
-              }
-            ]
-          }
-        },
-        {
-          "name": "SEM-MWCNTs.png",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/SEM-MWCNTs.png"
-              }
-            ]
-          }
-        },
-        {
-          "name": "TEM-CNFs.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/TEM-CNFs.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "TEM-MWCNTs.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/TEM-MWCNTs.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "bare-catalyst1.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/bare-catalyst1.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "bare-catalyst2.png",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/bare-catalyst2.png"
-              }
-            ]
-          }
-        },
-        {
-          "name": "bimetallic-catalyst-pd-bic.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/bimetallic-catalyst-pd-bic.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdbn1.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdbn1.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdbn2.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdbn2.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdbn3.png",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdbn3.png"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdbn4.emf",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdbn4.emf"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdbn5.emf",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdbn5.emf"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdc.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdc.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdcb-silica1.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdcb-silica1.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "catalyst-pdcb-silica2.jpg",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/catalyst-pdcb-silica2.jpg"
-              }
-            ]
-          }
-        },
-        {
-          "name": "index.json",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/index.json"
-              }
-            ]
-          }
-        },
-        {
-          "name": "ligand-MWCNT.png",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/ligand-MWCNT.png"
-              }
-            ]
-          }
-        },
-        {
-          "name": "ligand-RGO.png",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/ligand-RGO.png"
-              }
-            ]
-          }
-        },
-        {
-          "name": "nanocapsules.png",
-          "source": {
-            "baseURL": "https://image-js.github.io/image-dataset-demo/",
-            "entries": [
-              {
-                "relativePath": "UCL/nanocapsules.png"
-              }
-            ]
-          }
-        }
-      ]
-    },
-    {
       "title": "biology",
       "sources": [
         {
@@ -411,6 +115,88 @@
             "entries": [
               {
                 "relativePath": "cats/maine-coon-694730_1280.jpg"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fribourg",
+      "sources": [
+        {
+          "name": "Commercial-SPIONss.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/Commercial-SPIONss.tif"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Cu_BSA_6.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/Cu_BSA_6.tif"
+              }
+            ]
+          }
+        },
+        {
+          "name": "fondant_60kx_004.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/fondant_60kx_004.tif"
+              }
+            ]
+          }
+        },
+        {
+          "name": "fondant_60kx_005.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/fondant_60kx_005.tif"
+              }
+            ]
+          }
+        },
+        {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Silica_small.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/Silica_small.tif"
+              }
+            ]
+          }
+        },
+        {
+          "name": "ZnO_BSA_7.tif",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/ZnO_BSA_7.tif"
               }
             ]
           }
@@ -711,6 +497,242 @@
             "entries": [
               {
                 "relativePath": "standard_mask/peppers.png"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "UCL",
+      "sources": [
+        {
+          "name": "bare-catalyst1.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/bare-catalyst1.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "bare-catalyst2.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/bare-catalyst2.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "bimetallic-catalyst-pd-bic.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/bimetallic-catalyst-pd-bic.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdbn1.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdbn1.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdbn2.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdbn2.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdbn3.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdbn3.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdbn4.emf",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdbn4.emf"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdbn5.emf",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdbn5.emf"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdc.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdc.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdcb-silica1.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdcb-silica1.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "catalyst-pdcb-silica2.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/catalyst-pdcb-silica2.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "index.json",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/index.json"
+              }
+            ]
+          }
+        },
+        {
+          "name": "ligand-MWCNT.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/ligand-MWCNT.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "ligand-RGO.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/ligand-RGO.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "MWCNTs1.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/MWCNTs1.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "MWCNTs2.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/MWCNTs2.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "nanocapsules.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/nanocapsules.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "SEM-CNFs.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/SEM-CNFs.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "SEM-MWCNTs.png",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/SEM-MWCNTs.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "TEM-CNFs.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/TEM-CNFs.jpg"
+              }
+            ]
+          }
+        },
+        {
+          "name": "TEM-MWCNTs.jpg",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "UCL/TEM-MWCNTs.jpg"
               }
             ]
           }
