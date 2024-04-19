@@ -180,6 +180,17 @@
           }
         },
         {
+          "name": "Silica.pixelium",
+          "source": {
+            "baseURL": "https://image-js.github.io/image-dataset-demo/",
+            "entries": [
+              {
+                "relativePath": "Fribourg/Silica.pixelium"
+              }
+            ]
+          }
+        },
+        {
           "name": "Silica_small.tif",
           "source": {
             "baseURL": "https://image-js.github.io/image-dataset-demo/",
