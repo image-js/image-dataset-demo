@@ -2,8 +2,8 @@ import { readdirSync, statSync } from 'node:fs';
 import { join } from 'node:path';
 
 export function* walk(currentDir, baseDir) {
-  const url = new URL(currentDir, baseDir);
-  for (const entry of readdirSync(url, { withFileTypes: true })) {
+  const nextDir = join(baseDir, currentDir);
+  for (const entry of readdirSync(nextDir, { withFileTypes: true })) {
     if (entry.isDirectory()) {
       const newDir = join(currentDir, entry.name);
       for (const subentry of walk(newDir, baseDir)) {
@@ -16,10 +16,10 @@ export function* walk(currentDir, baseDir) {
 }
 
 function getEntry(entry, baseDir) {
-  const fileInfo = statSync(join(entry.path, entry.name));
+  const fileInfo = statSync(join(entry.parentPath, entry.name));
   return {
     name: entry.name,
-    path: entry.path,
+    parentPath: entry.parentPath,
     relativePath: join(baseDir, entry.name),
     size: fileInfo.size,
     lastModified: fileInfo.mtimeMs,

@@ -2,7 +2,7 @@
 import { FileCollection } from 'file-collection';
 
 const source = {
-  baseURL: 'https://image-js.github.io/image-dataset-demo/',
+  baseURL: 'https://demo-dataset.image-js.org/',
   entries: [
     {
       relativePath: 'cats/cats-eyes-2944820_1280.jpg',
