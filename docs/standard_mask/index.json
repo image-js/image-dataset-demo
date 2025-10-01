@@ -4,37 +4,43 @@
       "name": "barbara.png",
       "relativePath": "barbara.png",
       "size": 38880,
-      "lastModified": 1755605299157.7017
+      "lastModified": 1699026848070.5173
     },
     {
       "name": "boat.png",
       "relativePath": "boat.png",
       "size": 25091,
-      "lastModified": 1755605299157.8406
+      "lastModified": 1699026848070.7124
     },
     {
       "name": "house.png",
       "relativePath": "house.png",
       "size": 13800,
-      "lastModified": 1755605299158.0896
+      "lastModified": 1699026848070.845
     },
     {
       "name": "lenna.png",
       "relativePath": "lenna.png",
       "size": 29989,
-      "lastModified": 1755605299158.2842
+      "lastModified": 1759247749466.3313
+    },
+    {
+      "name": "male.png",
+      "relativePath": "male.png",
+      "size": 62792,
+      "lastModified": 1759239311238.4465
     },
     {
       "name": "mandrill.png",
       "relativePath": "mandrill.png",
       "size": 16714,
-      "lastModified": 1755605299158.393
+      "lastModified": 1699026848071.2607
     },
     {
       "name": "peppers.png",
       "relativePath": "peppers.png",
       "size": 8621,
-      "lastModified": 1755605299158.4844
+      "lastModified": 1699026848071.327
     }
   ]
 }

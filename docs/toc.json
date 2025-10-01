@@ -376,6 +376,17 @@
       "title": "standard",
       "sources": [
         {
+          "name": "airport.png",
+          "source": {
+            "baseURL": "https://demo-dataset.image-js.org/",
+            "entries": [
+              {
+                "relativePath": "standard/airport.png"
+              }
+            ]
+          }
+        },
+        {
           "name": "barbara.jpg",
           "source": {
             "baseURL": "https://demo-dataset.image-js.org/",
@@ -393,6 +404,28 @@
             "entries": [
               {
                 "relativePath": "standard/boat.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "female.png",
+          "source": {
+            "baseURL": "https://demo-dataset.image-js.org/",
+            "entries": [
+              {
+                "relativePath": "standard/female.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "femaleBellLabs.png",
+          "source": {
+            "baseURL": "https://demo-dataset.image-js.org/",
+            "entries": [
+              {
+                "relativePath": "standard/femaleBellLabs.png"
               }
             ]
           }
@@ -420,12 +453,34 @@
           }
         },
         {
+          "name": "jellybeans.png",
+          "source": {
+            "baseURL": "https://demo-dataset.image-js.org/",
+            "entries": [
+              {
+                "relativePath": "standard/jellybeans.png"
+              }
+            ]
+          }
+        },
+        {
           "name": "lenna.png",
           "source": {
             "baseURL": "https://demo-dataset.image-js.org/",
             "entries": [
               {
                 "relativePath": "standard/lenna.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "male.png",
+          "source": {
+            "baseURL": "https://demo-dataset.image-js.org/",
+            "entries": [
+              {
+                "relativePath": "standard/male.png"
               }
             ]
           }
@@ -508,6 +563,17 @@
             "entries": [
               {
                 "relativePath": "standard_mask/lenna.png"
+              }
+            ]
+          }
+        },
+        {
+          "name": "male.png",
+          "source": {
+            "baseURL": "https://demo-dataset.image-js.org/",
+            "entries": [
+              {
+                "relativePath": "standard_mask/male.png"
               }
             ]
           }
