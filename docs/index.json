@@ -105,20 +105,20 @@
     {
       "name": "circles.png",
       "relativePath": "morphology_mask/circles.png",
-      "size": 29439,
-      "lastModified": 1759237799751.5686
+      "size": 36407,
+      "lastModified": 1759850322825.8103
     },
     {
       "name": "shapes.png",
       "relativePath": "morphology_mask/shapes.png",
-      "size": 36526,
-      "lastModified": 1759237799752.072
+      "size": 29760,
+      "lastModified": 1759850387555.9797
     },
     {
       "name": "star.png",
       "relativePath": "morphology_mask/star.png",
-      "size": 32103,
-      "lastModified": 1759237799752.3625
+      "size": 29592,
+      "lastModified": 1759850450090.747
     },
     {
       "name": "carbon-tubes1.tif",
@@ -166,7 +166,7 @@
       "name": "house.png",
       "relativePath": "standard_mask/house.png",
       "size": 3979,
-      "lastModified": 1759848235042.692
+      "lastModified": 1759848578901.1687
     },
     {
       "name": "lenna.png",
@@ -184,13 +184,13 @@
       "name": "mandrill.png",
       "relativePath": "standard_mask/mandrill.png",
       "size": 48764,
-      "lastModified": 1759847904034.4795
+      "lastModified": 1759848578902.54
     },
     {
       "name": "peppers.png",
       "relativePath": "standard_mask/peppers.png",
       "size": 21155,
-      "lastModified": 1759848262903.5652
+      "lastModified": 1759848578903.2405
     },
     {
       "name": "airport.png",
@@ -226,7 +226,7 @@
       "name": "house.png",
       "relativePath": "standard/house.png",
       "size": 152711,
-      "lastModified": 1759848235065.338
+      "lastModified": 1759848578896.1807
     },
     {
       "name": "jellybeans.png",
@@ -250,13 +250,13 @@
       "name": "mandrill.png",
       "relativePath": "standard/mandrill.png",
       "size": 750814,
-      "lastModified": 1759846934817.9011
+      "lastModified": 1759848578898.4644
     },
     {
       "name": "peppers.png",
       "relativePath": "standard/peppers.png",
       "size": 726149,
-      "lastModified": 1759848262961.1313
+      "lastModified": 1759848578900.6018
     },
     {
       "name": "bare-catalyst1.jpg",
