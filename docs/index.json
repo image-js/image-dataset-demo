@@ -105,20 +105,20 @@
     {
       "name": "circles.png",
       "relativePath": "morphology_mask/circles.png",
-      "size": 29439,
-      "lastModified": 1759237799751.5686
+      "size": 36407,
+      "lastModified": 1759850322825.8103
     },
     {
       "name": "shapes.png",
       "relativePath": "morphology_mask/shapes.png",
-      "size": 36526,
-      "lastModified": 1759237799752.072
+      "size": 29760,
+      "lastModified": 1759850387555.9797
     },
     {
       "name": "star.png",
       "relativePath": "morphology_mask/star.png",
-      "size": 32103,
-      "lastModified": 1759237799752.3625
+      "size": 29592,
+      "lastModified": 1759850450090.747
     },
     {
       "name": "carbon-tubes1.tif",
@@ -165,8 +165,8 @@
     {
       "name": "house.png",
       "relativePath": "standard_mask/house.png",
-      "size": 13800,
-      "lastModified": 1699026848070.845
+      "size": 3979,
+      "lastModified": 1759848578901.1687
     },
     {
       "name": "lenna.png",
@@ -183,14 +183,14 @@
     {
       "name": "mandrill.png",
       "relativePath": "standard_mask/mandrill.png",
-      "size": 16714,
-      "lastModified": 1699026848071.2607
+      "size": 48764,
+      "lastModified": 1759848578902.54
     },
     {
       "name": "peppers.png",
       "relativePath": "standard_mask/peppers.png",
-      "size": 8621,
-      "lastModified": 1699026848071.327
+      "size": 21155,
+      "lastModified": 1759848578903.2405
     },
     {
       "name": "airport.png",
@@ -225,8 +225,8 @@
     {
       "name": "house.png",
       "relativePath": "standard/house.png",
-      "size": 126900,
-      "lastModified": 1699026848069.3381
+      "size": 152711,
+      "lastModified": 1759848578896.1807
     },
     {
       "name": "jellybeans.png",
@@ -249,14 +249,14 @@
     {
       "name": "mandrill.png",
       "relativePath": "standard/mandrill.png",
-      "size": 47046,
-      "lastModified": 1699026848070.0776
+      "size": 750814,
+      "lastModified": 1759848578898.4644
     },
     {
       "name": "peppers.png",
       "relativePath": "standard/peppers.png",
-      "size": 37548,
-      "lastModified": 1759238392066.5767
+      "size": 726149,
+      "lastModified": 1759848578900.6018
     },
     {
       "name": "bare-catalyst1.jpg",
